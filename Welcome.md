@@ -5,3 +5,5 @@ Men who for truth and honor's sake
 Stand fast and suffer long.
 
 ---
+- Apple
+- Banana
