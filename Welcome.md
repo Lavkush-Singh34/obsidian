@@ -9,3 +9,5 @@ Stand fast and suffer long.
 - Banana
 - Grapes
 - Guava
+- Lichi
+
