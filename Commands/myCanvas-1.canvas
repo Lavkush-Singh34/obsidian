@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"da3145f84e7cff1f","type":"file","file":"Commands/SSH-KEYGEN.md","x":-1060,"y":-780,"width":340,"height":320},
-		{"id":"f08b9989f237579e","type":"text","text":"Hello there","x":-640,"y":-780,"width":250,"height":60,"color":"3"}
+		{"id":"f08b9989f237579e","type":"text","text":"Hello there","x":-640,"y":-780,"width":250,"height":60,"color":"3"},
+		{"id":"da3145f84e7cff1f","type":"file","file":"Commands/SSH-KEYGEN.md","x":-1260,"y":-1020,"width":340,"height":320}
 	],
 	"edges":[
 		{"id":"c13bf1f80133c298","fromNode":"da3145f84e7cff1f","fromSide":"right","toNode":"f08b9989f237579e","toSide":"left"}
