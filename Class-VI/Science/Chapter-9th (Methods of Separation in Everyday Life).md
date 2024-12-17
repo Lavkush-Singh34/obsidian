@@ -109,5 +109,103 @@ _Example:_ Removing iron nails from sawdust.
 **A:** The chapter uses Malli and Valli’s journey across India to teach scientific methods of separation while exploring regional practices and traditions, such as Dandi March and folk songs.
 
 ---
+# Very Short Answers
+---
 
-These questions can help in reviewing and understanding the chapter better! Let me know if you need more activities or exercises.
+---
+
+### **1. Handpicking**
+
+- **Definition**: Separating unwanted substances or impurities (like stones from rice or wheat) by hand.
+- **Example**: Removing small stones or insects from grains at home.
+
+---
+
+### **2. Sieving**
+
+- **Definition**: Using a sieve to separate particles of different sizes.
+- **Example**: Separating flour from bran in the kitchen.
+
+---
+
+### **3. Winnowing**
+
+- **Definition**: Using wind or air to separate lighter substances from heavier ones.
+- **Example**: Farmers separating husk from grains after harvesting.
+
+---
+
+### **4. Filtration**
+
+- **Definition**: Using a filter to separate insoluble solids from liquids.
+- **Example**: Filtering tea leaves using a strainer.
+
+---
+
+### **5. Decantation**
+
+- **Definition**: Pouring out liquid from a mixture to leave behind solids or heavier liquids.
+- **Example**: Separating water from soaked rice.
+
+---
+
+### **6. Evaporation**
+
+- **Definition**: Removing a liquid by heating it, leaving the solid behind.
+- **Example**: Making salt from seawater by evaporating the water.
+
+---
+
+### **7. Condensation**
+
+- **Definition**: Turning vapor into liquid by cooling it.
+- **Example**: Collecting water droplets from the lid when boiling water.
+
+---
+
+### **8. Magnetic Separation**
+
+- **Definition**: Using magnets to separate magnetic materials from non-magnetic ones.
+- **Example**: Separating iron nails from a pile of sand.
+
+---
+
+### **9. Sedimentation**
+
+- **Definition**: Allowing heavier particles in a liquid to settle down naturally.
+- **Example**: Settling mud at the bottom of a glass of water.
+
+---
+
+These simple techniques are used to make our lives easier by separating mixtures or removing impurities.
+
+---
+The difference between **decantation** and **sedimentation**.
+
+---
+
+### **1. Sedimentation**
+
+- **Definition**: It is the process of allowing heavier particles in a liquid to settle down naturally due to gravity.
+- **Process**: The mixture is left undisturbed for some time so that solid particles sink to the bottom.
+- **Example**: Muddy water left in a glass allows mud to settle at the bottom.
+
+---
+
+### **2. Decantation**
+
+- **Definition**: It is the process of carefully pouring out the liquid from a mixture without disturbing the settled solid particles.
+- **Process**: After sedimentation, the clear liquid on top is gently poured out.
+- **Example**: After sedimentation of muddy water, the clear water on top is poured off.
+
+---
+
+### **Key Difference**
+
+|**Aspect**|**Sedimentation**|**Decantation**|
+|---|---|---|
+|**Action**|Particles settle naturally.|Clear liquid is poured out.|
+|**Purpose**|To separate solid particles from liquid.|To separate clear liquid from sediment.|
+|**When Used**|Happens first in the process.|Happens after sedimentation.|
+
+In short, **sedimentation** is settling, while **decantation** is pouring.
