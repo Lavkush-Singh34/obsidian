@@ -59,3 +59,44 @@
     - **Animals:** Start as newborns, grow into adults, and reproduce to maintain the continuity of the species. Animals show more dynamic mobility compared to plants.
 
 ---
+Here are key notes you can provide for better exam preparation from the uploaded chapters:
+
+---
+
+### **Chapter 10: Living Creatures - Exploring Their Characteristics**
+
+#### **Key Points**
+
+1. **Characteristics of Living Beings:**
+    
+    - Movement
+    - Growth
+    - Nutrition
+    - Respiration
+    - Excretion
+    - Response to stimuli
+    - Reproduction
+    - Death
+2. **Seed Germination:**
+    
+    - Essential conditions: water, air, and suitable temperature.
+    - Observations:
+        - Water softens the seed coat.
+        - Air provides oxygen for respiration.
+3. **Movement in Plants:**
+    
+    - Plants don't move but show specific movements:
+        - Drosera traps insects.
+        - Climbers wind around objects.
+4. **Life Cycle of Mosquito:**
+    
+    - Stages: Egg → Larva → Pupa → Adult.
+5. **Life Cycle of Frog:**
+    
+    - Stages: Egg → Embryo → Tadpole → Froglet → Adult frog.
+    - Tadpoles have tails for swimming and grow legs to become froglets.
+6. **Differences Between Living and Non-Living:**
+    
+    - Living beings exhibit growth, reproduction, and respiration, while non-living things lack these characteristics.
+
+---
