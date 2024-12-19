@@ -59,12 +59,9 @@
     - **Animals:** Start as newborns, grow into adults, and reproduce to maintain the continuity of the species. Animals show more dynamic mobility compared to plants.
 
 ---
-Here are key notes you can provide for better exam preparation from the uploaded chapters:
+# Short-Notes
 
 ---
-
-### **Chapter 10: Living Creatures - Exploring Their Characteristics**
-
 #### **Key Points**
 
 1. **Characteristics of Living Beings:**
