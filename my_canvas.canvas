@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c239eb66971adce8","type":"text","text":"hello there","x":0,"y":200,"width":250,"height":60},
+		{"id":"1d329308438d5c03","type":"file","file":"TransactionReceipt5349750402778083800.jpeg","x":-340,"y":-99,"width":200,"height":259}
+	],
+	"edges":[
+		{"id":"576718dbc613e380","fromNode":"1d329308438d5c03","fromSide":"right","toNode":"c239eb66971adce8","toSide":"top"}
+	]
+}
