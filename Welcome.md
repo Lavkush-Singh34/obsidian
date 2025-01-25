@@ -3,3 +3,4 @@
 - Banana
 - grapes
 - lemon
+- lichi
