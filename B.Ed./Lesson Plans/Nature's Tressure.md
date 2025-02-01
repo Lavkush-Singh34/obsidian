@@ -1,138 +1,89 @@
-Here's a comprehensive lesson plan for the chapter "Nature's Treasures":
+### **प्रश्नोत्तर (Q&A)**
 
-LESSON PLAN - NATURE'S TREASURES
+#### **1. वायु (Air)**
 
-Duration: 6-7 class periods (40-45 minutes each)
+**प्रश्न:** हम सांस क्यों लेते हैं?  
+**उत्तर:** हम सांस इसलिए लेते हैं क्योंकि हमारे शरीर को ऑक्सीजन की जरूरत होती है। ऑक्सीजन हमारे शरीर को ऊर्जा प्रदान करने में मदद करता है।
 
-Learning Objectives:
-By the end of this unit, students will be able to:
-1. Understand the importance of natural resources
-2. Differentiate between renewable and non-renewable resources
-3. Explain the composition and importance of air
-4. Describe water conservation methods
-5. Understand the significance of solar energy
-6. Recognize the importance of forests and soil
-7. Comprehend the formation and uses of fossil fuels
+**प्रश्न:** हवा में कौन-कौन सी गैसें होती हैं?  
+**उत्तर:** हवा में मुख्य रूप से नाइट्रोजन (78%), ऑक्सीजन (21%) और अन्य गैसें (1%) होती हैं।
 
-Day 1: Introduction to Natural Resources & Air
+**प्रश्न:** हवा कैसे हिलती है?  
+**उत्तर:** हवा गर्म और ठंडी होने से गति करती है, जिसे हम पवन (wind) कहते हैं। तेज़ हवा को तूफान और धीमी हवा को ठंडी बयार कहते हैं।
 
-Opening (10 mins):
-- Engage students with a discussion about things they use daily
-- Ask them to trace where these items come from originally
+---
 
-Main Lesson (25 mins):
-- Introduction to natural resources
-- Composition of air
-- Importance of air and oxygen
+#### **2. जल (Water)**
 
-Activity (10 mins):
-- Breathing exercise (Activity 11.1)
-- Making and using a firki (paper pinwheel)
+**प्रश्न:** हमें जल की आवश्यकता क्यों होती है?  
+**उत्तर:** हमें जल पीने, खाना पकाने, नहाने, सफाई करने और खेती के लिए आवश्यक होता है।
 
-Day 2: Water Resources
+**प्रश्न:** जल के स्रोत कौन-कौन से हैं?  
+**उत्तर:** नदी, झील, कुआँ, तालाब, वर्षा जल और भूमिगत जल।
 
-Opening (5 mins):
-- Begin with questions about water usage in daily life
+**प्रश्न:** जल संरक्षण के उपाय क्या हैं?  
+**उत्तर:**
 
-Main Lesson (25 mins):
-- Sources of water
-- Importance of water
-- Water conservation methods
-- Rainwater harvesting
+1. पानी का अपव्यय न करें।
+2. वर्षा जल संचयन करें।
+3. नल को खुला न छोड़ें।
+4. रिसाव वाले पाइपों को ठीक करवाएँ।
 
-Activity (15 mins):
-- Complete Table 11.1 about water wastage
-- Group discussion on water conservation methods
+---
 
-Day 3: Solar Energy
+#### **3. सूर्य से ऊर्जा (Energy from the Sun)**
 
-Opening (10 mins):
-- Discussion about the Sun's importance
+**प्रश्न:** सूर्य हमारे लिए क्यों महत्वपूर्ण है?  
+**उत्तर:** सूर्य हमें गर्मी और रोशनी देता है। इससे पौधे भोजन बनाते हैं और हमारी ऊर्जा जरूरतें पूरी होती हैं।
 
-Main Lesson (20 mins):
-- Sun as main energy source
-- Uses of solar energy
-- Solar devices and their applications
+**प्रश्न:** सौर ऊर्जा (Solar Energy) क्या होती है?  
+**उत्तर:** सूर्य की किरणों से प्राप्त ऊर्जा को सौर ऊर्जा कहते हैं, जिसे सौर पैनल, सौर कुकर और सौर वाटर हीटर के माध्यम से इस्तेमाल किया जाता है।
 
-Activity (15 mins):
-- Drawing activity showing uses of solar energy
-- Discussion about food chains starting with solar energy
+---
 
-Day 4: Forests & Soil
+#### **4. वन (Forests)**
 
-Opening (5 mins):
-- Show pictures of different forests
+**प्रश्न:** हमें पेड़ों को क्यों बचाना चाहिए?  
+**उत्तर:** पेड़ हमें ऑक्सीजन देते हैं, पर्यावरण को ठंडा रखते हैं और जीवों को आश्रय प्रदान करते हैं।
 
-Main Lesson (25 mins):
-- Importance of forests
-- Forest conservation
-- Types and formation of soil
-- Importance of soil conservation
+**प्रश्न:** चिपको आंदोलन क्या था?  
+**उत्तर:** यह एक आंदोलन था जिसमें लोग पेड़ों से चिपक कर उन्हें कटने से बचाते थे।
 
-Activity (15 mins):
-- Soil investigation activity (Activity 11.4)
-- Discussion about Van Mahotsav
+---
 
-Day 5: Rocks, Minerals & Fossil Fuels
+#### **5. मृदा, चट्टानें और खनिज (Soil, Rocks, and Minerals)**
 
-Opening (5 mins):
-- Show samples of different rocks/minerals
+**प्रश्न:** मिट्टी कैसे बनती है?  
+**उत्तर:** मिट्टी चट्टानों के टूटने, हवा, पानी और जीवों के प्रभाव से हजारों वर्षों में बनती है।
 
-Main Lesson (25 mins):
-- Types of rocks and their uses
-- Minerals and their importance
-- Fossil fuels and their formation
-- Environmental impact of fossil fuels
+**प्रश्न:** चट्टानों का क्या उपयोग है?  
+**उत्तर:** चट्टानें मकान, सड़क, पुल, और औजार बनाने में उपयोग होती हैं।
 
-Activity (15 mins):
-- Survey of vehicles and fuels (Activity 11.5)
+**प्रश्न:** खनिजों का क्या महत्व है?  
+**उत्तर:** खनिजों से हमें सोना, चांदी, लोहा, तांबा आदि धातुएं मिलती हैं, जिनसे गहने, उपकरण और मशीनें बनती हैं।
 
-Day 6: Classification & Conservation
+---
 
-Opening (10 mins):
-- Review of previous topics
+#### **6. जीवाश्म ईंधन (Fossil Fuels)**
 
-Main Lesson (20 mins):
-- Classification of resources into renewable and non-renewable
-- Conservation methods
-- Sustainable use of resources
+**प्रश्न:** जीवाश्म ईंधन क्या होते हैं?  
+**उत्तर:** कोयला, पेट्रोलियम और प्राकृतिक गैस जैसे ईंधन जो लाखों साल पहले जीवों के अवशेषों से बने हैं, उन्हें जीवाश्म ईंधन कहते हैं।
 
-Activity (15 mins):
-- Resource classification game
-- Making conservation posters
+**प्रश्न:** जीवाश्म ईंधन का अधिक उपयोग क्यों नुकसानदायक है?  
+**उत्तर:**
 
-Assessment Methods:
-8. Class participation
-9. Activity completion
-10. Homework assignments
-11. Quiz/Test
-12. Project work
+1. ये सीमित मात्रा में उपलब्ध हैं।
+2. इनके जलने से प्रदूषण होता है।
+3. ये खत्म हो सकते हैं, इसलिए हमें नवीकरणीय ऊर्जा का उपयोग करना चाहिए।
 
-Materials Needed:
-13. Science textbook
-14. Chart papers
-15. Soil samples
-16. Pictures of natural resources
-17. Activity materials for experiments
-18. Assessment worksheets
+---
 
-Homework/Assignments:
-19. Resource usage diary
-20. Water conservation project
-21. Survey of local natural resources
-22. Conservation poster making
+#### **7. नवीकरणीय और गैर-नवीकरणीय संसाधन (Renewable and Non-Renewable Resources)**
 
-Extension Activities:
-23. Field trip to nearby forest/park
-24. Visit to solar power plant/windmill
-25. Tree plantation drive
-26. Water conservation campaign
+**प्रश्न:** नवीकरणीय संसाधन क्या होते हैं?  
+**उत्तर:** वे संसाधन जो फिर से बन सकते हैं, जैसे - हवा, पानी, सूरज की रोशनी और जंगल।
 
-Special Considerations:
-- Ensure safety during activities
-- Accommodate different learning styles
-- Include local examples and contexts
-- Connect concepts to daily life
-- Encourage environmental awareness
+**प्रश्न:** गैर-नवीकरणीय संसाधन कौन-कौन से हैं?  
+**उत्तर:** कोयला, पेट्रोल, प्राकृतिक गैस और खनिज क्योंकि ये एक बार खत्म होने के बाद जल्दी नहीं बनते।
 
 ---
